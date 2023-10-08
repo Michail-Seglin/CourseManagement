@@ -1,1 +1,1 @@
-# CourseManagement.
+# CourseManagement
